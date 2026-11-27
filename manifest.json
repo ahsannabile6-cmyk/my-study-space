@@ -1,0 +1,10 @@
+{
+  "name": "My Study Space",
+  "short_name": "Study Space",
+  "description": "Personal HSC study companion",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1d3557",
+  "orientation": "portrait"
+}
